@@ -17,3 +17,7 @@
 
 ![sketch005](./image/sketch005.gif)
 
+## sketch006
+
+![sketch006](./image/sketch006.png)
+
