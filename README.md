@@ -35,5 +35,5 @@
 
 ## sketch011
 
-![sketch011](./image/sketch011.git)
+![sketch011](./image/sketch011.gif)
 
