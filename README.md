@@ -39,6 +39,5 @@
 
 ## sketch012
 
-![sketch012](./image/sketch012.git)
-
+![sketch012](./image/sketch012.gif)
 
